@@ -1,0 +1,7 @@
+RewriteEngine On
+
+# Redirect specific URLs to their corresponding PHP files
+RewriteRule ^howitworks$ /howitworks.php [L]
+RewriteRule ^contact$ /contact.php [L]
+RewriteRule ^about$ /about.php [L]
+RewriteRule ^faq$ /faq.php [L]
