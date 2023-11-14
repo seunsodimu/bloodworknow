@@ -59,7 +59,7 @@ include 'header.php'
 									<div class="feature-content">
 										<h5><a href="https://shop.bloodworknow.com/apps/store-locato">Go To Lab</a></h5>
 										<p>We will send you labs to choose from in your area.  Go to your lab of choice and have your samples drawn.</p>
-										<a href="https://shop.bloodworknow.com/apps/store-locator"><dfn>- Get Started</dfn></a>
+										<a href="https://shop.bloodworknow.com"><dfn>- Get Started</dfn></a>
 									</div>
 								</div>
 								
