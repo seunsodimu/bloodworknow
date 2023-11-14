@@ -53,7 +53,7 @@
                             
 							<li><a href="howitworks"><i class="fa fa-long-arrow-right"></i>How It Works</a></li>
 							<li><a href="https:/shop.bloodworknow.com"><i class="fa fa-long-arrow-right"></i>Find Tests</a></li>
-							<li><a href="https://shop.bloodworknow.com/apps/store-locator"><i class="fa fa-long-arrow-right"></i>Nearest Lab</a></li>
+							
                             <li><a href="about"><i class="fa fa-long-arrow-right"></i>About Us</a></li>
                             <li><a href="faq"><i class="fa fa-long-arrow-right"></i>FAQs</a></li>
                             <li><a href="https://shop.bloodworknow.com/blogs/news"><i class="fa fa-long-arrow-right"></i>Articles</a></li>
